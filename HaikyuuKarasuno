@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Artikel</title>
+		<style>
+			body{
+				font-family:'segoe UI', Tahoma, Geneva, Verdana;
+				}
+			p{
+				font-size:20px;
+				font-family:'gill sans', 'Gill Sans MT', 'Trebuchet MS';
+				}
+			table,th,td{
+				color:orange;
+				}
+		</style>
+	</head>
+<body>
+	<h1 align="center"><font color="orange">Karasuno High: Volleyball Club</font></h1>
+	<p align="center"><img src="karasuno1.png" width="800px" height="500px">
+	<h3 align="center">Karasuno Volleyball Team is a fictional team based on sport anime called Haikyuu</h3>
+		<p align="center">The series started when Hinata Shoyou wacthing the match Karasuno volleyball team 
+		playyed in the National Spring Tournament. The ACE at that time was someone who called "the little giant"
+		even though hes small but he can defeat his enemies in game, his jump is so high and his spike so strong.
+		But after few years Karasuno team never playyed in the national anymore and peopple start calling them 
+		"the birds that cant fly". Hinata who had made up his mind still going to Karasuno and met his old enemy Kageyama.
+		Later on Hinata and Kageyama become partner and works together bringing back the Karasuno team to the National 
+		Tournament as representative of their perfecture.</p>
+		<h2 Align="center"><font color="orange">Karasuno High Team Member</font></h2>
+			<ol Align="center">
+				<li>Daichi Sawamura: Captain/Wing Spiker</li>
+				<li>Koushi sugawara: Vice-Captain/Setter</li>
+				<li>Asahi Azumane: Wing Spiker/Ace</li>
+				<li>Yuu Nishinoya: Libero</li>
+				<li>Ryuunosuke Tanaka: Wing Spiker</li>
+				<li>Chikara Ennoshita: Wing Spiker</li>
+				<li>Hisahi Kinoshita: Wing Spiker/Pinch Server</li>
+				<li>Kazuhito Narita: Middle Blocker</li>
+				<li>Tobio kageyama: Setter</li>
+				<li>Shouyou Hinata: Middle Blocker/Decoy</li>
+				<li>Kei Tsukkisima: Middle Blocker</li>
+				<li>Tadashi Yamaguchi: Middle Blocker/Pinch Server</li>
+			</ol>
+	<h2 align="center">Their Enemies</h2>
+	<p align="center"><img src="inarizaki.jpg" width="800px" height="500px">
+	<h3 align="center">Inarizaki High Team</h3>
+	<p align="center"><img src="shiratorizawa.jpg" width="400px" height="600px">
+	<h3 align="center"><font color="purple">Shiratorizawa Akademi Team</font></h3>
+	<p align="center"><img src="nekoma.jpg" width="400px" height="600px">
+	<h3 align="center"><font color="red">Nekoma High Team</font></h3>
+	<p align="center"><img src="aobajohsai.jpg" width="800px" height="500px">
+	<h3 align="center"><font color="turquoise">Aoba Johsai High Team</font></h3>
+	<p align="center"><img src="datetech.jpg" width="400px" height="600px">
+	<h3 align="center"><font color="teal">Date Tech High Team</font></h3>
+
